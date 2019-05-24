@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Learn Maths</string>
+    <string name="title">Let\'s Count Number</string>
+
+   <!--Parsed Data-->
+    <string name="background">com.example.learnmaths.background</string>
+    <string name="level">com.example.learnmaths.level</string>
+    <string name="soundStatus">com.example.learnmaths.soundStatus</string>
+
+</resources>
